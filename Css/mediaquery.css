@@ -1,0 +1,31 @@
+@media screen and (max-width: 500px) {
+    /* .navlinks{
+        display: none;
+    }
+    .header-content{
+        display: block;
+    }
+    .left-sec h2{
+        margin-top: 50px;
+        font-size: 30px;
+        text-align: center;
+        width: 130%;
+        margin-left: 50px;
+    }
+    .left-sec p{
+        width: 150%;
+        text-align: center;
+    } */
+}
+@media screen and (min-width:500px) and (max-width: 900px) {
+
+    
+}
+@media screen and (min-width:900px) and (max-width: 1200px) {
+
+    
+}
+@media screen and (min-width: 1200px) {
+
+    
+}
